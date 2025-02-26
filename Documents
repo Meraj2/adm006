@@ -7,3 +7,5 @@ database connection
 Model :Employee class
 Repository interface : EmployeeRepository
 Service class : EmployeeService class
+database connection
+crud operations
